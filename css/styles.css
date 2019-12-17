@@ -1,0 +1,14 @@
+/** {
+    outline: 1px solid red;
+} */
+
+button {
+    background: linear-gradient(to right, #8DC26F, #76b852); 
+}
+
+img {
+    max-width: 30vw;
+    height: auto;
+    margin-top: 10px;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.7);
+}
